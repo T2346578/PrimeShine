@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/20692476/README.md)
 # PrimeShine Auto Detailing Landing Page
 
 A modern, high-conversion landing page for PrimeShine Auto Detailing, a premium mobile car detailing service in the GTA.
